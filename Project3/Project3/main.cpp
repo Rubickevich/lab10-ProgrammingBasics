@@ -6,7 +6,7 @@ int main()
 {
 	char c, r;
 	char str[200];
-	cout << "Give char C: ";
+	cout << "Give char C, please, I beg you: ";
 	cin >> c;
 	cout << "Give char R: ";
 	cin >> r;
